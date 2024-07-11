@@ -8,3 +8,5 @@ elif (first == second) and (first != third) or (first != second) and (first == t
     print(2)
 else:
     print(0)
+
+# Test
